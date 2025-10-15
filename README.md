@@ -2,9 +2,9 @@
 
 Este repositório contém o código fonte do projeto desenvolvido durante o curso FullCycle 4.0 Juniors, ministrado pela FullCycle.
 
-## Módulos
+## Cursos
 
-- [ ] Git
+- [ ] Git e GitHub
 - [ ] Docker na prática
 - [ ] Docker para desenvolvimento
 - [ ] Programação Orientada a Objetos (OOP)
@@ -20,3 +20,4 @@ Este repositório contém o código fonte do projeto desenvolvido durante o curs
 ---
 
 - [ ] LevelUP Juniors
+- [ ] Docker para produção
