@@ -7,7 +7,7 @@ Este repositório contém o código fonte do projeto desenvolvido durante o curs
 - [ ] Git e GitHub
 - [ ] Docker na prática
 - [ ] Docker para desenvolvimento
-- [ ] Programação Orientada a Objetos (OOP)
+- [ ] **[🚧 Em andamento]** Programação Orientada a Objetos (OOP)
 - [ ] SOLID na prática
 - [ ] REST
 - [ ] TDD
